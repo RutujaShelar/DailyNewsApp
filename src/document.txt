@@ -1,0 +1,9 @@
+<Route path="/business" pageSize={5} country="in" category="business" ></Route>
+<Route path="/entertainment" pageSize={5} country="in" category="entertainment" ></Route>
+<Route path="/general" pageSize={5} country="in" category="general" ></Route>
+<Route path="/health" pageSize={5} country="in" category="health" ></Route>
+<Route path="/science" pageSize={5} country="in" category="science" ></Route>
+<Route path="/sports" pageSize={5} country="in" category="sports" ></Route>
+<Route path="/technology" pageSize={5} country="in" category="technology" ></Route>
+
+ <Route path="/" pageSize={5} country="in" category="science" ></Route>
